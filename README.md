@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R3ODl0YmFrNmJhNXhwNmp5aXM1eHV0MTB0eTZpanIzZjFxejJxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lOKyKOS89YyJfq/giphy.gif"/>
 </div>
-<div id="header1" align="center">
-  <img src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FTelegram"/>
-</div>
+
 Добро пожаловать!
 
 Занимаюсь ручным тестированием ПО на протяжении 2 лет. Параллельно занимаюсь изучением автоматизации тестирования на Python (Pytest, Selenium, Request, Playwright)
