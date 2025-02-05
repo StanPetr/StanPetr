@@ -8,6 +8,11 @@
   </a>
 </div>
 
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=StanPetr&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 Добро пожаловать!
 
 Занимаюсь ручным тестированием ПО на протяжении 2 лет. Параллельно занимаюсь изучением автоматизации тестирования на Python (Pytest, Selenium, Request, Playwright)
