@@ -12,9 +12,16 @@
   <img src="https://komarev.com/ghpvc/?username=StanPetr&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div align="center">
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Добро пожаловать!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
-👋 Добро пожаловать!
 🧑‍💻 О себе
+
 Привет! Меня зовут Станислав, и я занимаюсь тестированием ПО 2 года. Моя специализация – ручное тестирование, а также изучение автоматизации на Python (Pytest, Selenium, Requests, Playwright).
 
 📌 Ручное тестирование
